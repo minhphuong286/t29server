@@ -1,0 +1,1 @@
+"authHost": "http://webrtc-project-2-video-call.herokuapp.com",
